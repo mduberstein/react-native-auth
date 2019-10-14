@@ -9,7 +9,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.8.1",
+    "firebase": "^7.2.0",
+    "react": "^16.9.0",
     "react-native": "0.61.2"
   },
   "devDependencies": {
@@ -17,6 +18,8 @@
     "@babel/runtime": "^7.5.0",
     "@react-native-community/eslint-config": "^0.0.3",
     "babel-jest": "^24.1.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-no-unused-expressions": "^0.1.0",
     "jest": "^24.1.0",
     "metro-react-native-babel-preset": "^0.51.1",
     "react-test-renderer": "16.8.1"
